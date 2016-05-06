@@ -1,5 +1,7 @@
 # Pascal
-Ejercicios resueltos de practica.
+Ejercicios resueltos de practica para la asignatura Algoritmos y estructuras de datos. UTN Rosario
+
+
 Fuente ejercicios: 
 Practica:
 http://frro.cvg.utn.edu.ar/mod/resource/view.php?id=4170
